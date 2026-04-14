@@ -1,53 +1,89 @@
-# 👋 Hi, I’m Janith Uthpala!
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Janith Uthpala
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=JanithUpGit&label=Profile%20views&color=0e75b6&style=flat" alt="JanithUpGit" />
-</p>
-
-### 👨‍💻 About Me
-- 👀 I’m deeply interested in **Full-Stack Development**, **AI**, and **Scalable Systems**.
-- 🌱 I’m currently sharpening my skills in **Next.js**, **React**, and **Spring Boot**.
-- 💞️ I’m looking to collaborate on **Open-Source** projects that make a positive impact.
-- 🚀 Passionate about building robust backend services and modern frontend experiences.
-
----
-
-### 🛠️ Tech Stack & Tools
-
-**Frontend**
-<p align="left">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
-
-**Backend**
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
-**Other Tools**
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Next.js+%26+Spring+Boot+Expert;AI+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
 ---
 
-### 📫 Connect with Me
-<p align="left">
-  <a href="mailto:janithup10@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=61550674143687">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
+###  About Me
+
+- I am a passionate **Full-Stack Developer** focused on building robust and scalable web applications.
+- Currently mastering **Next.js** for frontend excellence and **Spring Boot** for powerful backends.
+- Deeply interested in integrating **Artificial Intelligence** into modern web workflows.
+- I believe in the power of **Open Source** and collaborating on projects that solve real-world problems.
+
+---
+
+### Tech Stack
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" alt="Next.js" />
+      <br>Next.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=java" width="40" height="40" alt="Java" />
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=spring" width="40" height="40" alt="Spring" />
+      <br>Spring
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=py" width="40" height="40" alt="Python" />
+      <br>Python
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" />
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS3" />
+      <br>CSS3
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub" />
+      <br>GitHub
+    </td>
+  </tr>
+</table>
+
+---
+
+###  Performance & Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JanithUpGit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JanithUpGit&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
-![Janith's GitHub stats](https://github-readme-stats.vercel.app/api?username=JanithUpGit&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JanithUpGit&layout=compact&theme=radical)
+### 📫 Let's Connect!
+
+<p align="center">
+<a href="mailto:janithup10@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" hspace="5"></a>
+<a href="https://www.facebook.com/profile.php?id=61550674143687"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" hspace="5"></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" />
+</p>
